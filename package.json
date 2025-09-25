@@ -1,0 +1,27 @@
+{
+  "name": "ir.hardgs.framegram",
+  "version": "1.0.0",
+  "description": "a Simple and very Advance Lib for telegram bots",
+  "keywords": [
+    "telegram",
+    "telegrambot",
+    "telegramapi",
+    "api",
+    "bale",
+    "bot",
+    "balebot",
+    "baleapi"
+  ],
+  "homepage": "https://github.com/hardgs/framegram#readme",
+  "bugs": {
+    "url": "https://github.com/hardgs/framegram/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardgs/framegram.git"
+  },
+  "license": "ISC",
+  "author": "Hardgs",
+  "type": "module",
+  "main": "index.js"
+}
